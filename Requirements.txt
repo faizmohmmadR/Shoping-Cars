@@ -1,4 +1,4 @@
-Shoping Cars Project Requirement...
+Shoping Cars Project Requirements...
 
 1- Cars
 2- Customers
@@ -9,5 +9,5 @@ Shoping Cars Project Requirement...
 
 
 
-1- State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
-2- We use address in this project to show the address of that company whic sell the cars.
+1- State: State is used in this porject for shows how is the state of a car, does this cars sold before or in the selling state.
+2- Address:  We use address in this project to show the address of that company whic sell the cars.
