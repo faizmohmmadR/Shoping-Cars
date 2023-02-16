@@ -1,4 +1,4 @@
-Shoping Cars Project Requirement...
+Shoping Cars Project Requirements...
 
 1- Cars
 2- Customers
@@ -14,3 +14,5 @@ Shoping Cars Project Requirement...
 3-Company is the main location where traders buy and sell their cars and also give some information to their customers from here.
 4-Cars are our project products which all buying and selling operation doing on the cars products, and it is main part of project.
 5-Customers are users that they wants to buying our website products, customers search for thier favourite car in our database.
+1- State: State is used in this porject for shows how is the state of a car, does this cars sold before or in the selling state.
+2- Address:  We use address in this project to show the address of that company whic sell the cars.
