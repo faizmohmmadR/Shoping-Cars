@@ -1,5 +1,5 @@
 Shoping Cars Project Requirement...
-
+We want develop a applcation that Traders can sell online thier cars and everyone can buy online car. 
 1- Cars
 2- Customers
 3- Traders
@@ -12,3 +12,6 @@ Shoping Cars Project Requirement...
 1- State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
 2- We use address in this project to show the address of that company whic sell the cars.
 3-Company is the main location where traders buy and sell their cars and also give some information to their customers from here.
+4-4-Traders
+Trader is used in this project 
+beacuse it shows information about who persons that sell thier cars.
