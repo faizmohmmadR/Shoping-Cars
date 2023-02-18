@@ -16,3 +16,4 @@ Shoping Cars Project Requirements...
 5-Customers are users that they wants to buying our website products, customers search for thier favourite car in our database.
 1- State: State is used in this porject for shows how is the state of a car, does this cars sold before or in the selling state.
 2- Address:  We use address in this project to show the address of that company whic sell the cars.
+6- Employee :Employees are thoes persons that they can do these jobs.We have employees in our company for managing,sentry,driving,cooking and etc.
