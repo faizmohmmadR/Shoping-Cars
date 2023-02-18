@@ -9,7 +9,6 @@ We want develop a applcation that Traders can sell online thier cars and everyon
 6- Company
 
 
-
 1-State
 State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
 2-Address  
