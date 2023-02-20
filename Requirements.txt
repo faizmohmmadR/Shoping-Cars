@@ -7,10 +7,11 @@ Shoping Cars Project Requirement...
 5- State
 6- Company
 7- add
- we should change our project roles 
-testing 102020
+ we should make our project roles 
+testing 2020
 1- State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
 2- We use address in this project to show the address of that company whic sell the cars.
 3-Company is the main location where traders buy and sell their cars and also give some information to their customers from here.
 4-Cars are our project products which all buying and selling operation doing on the cars products, and it is main part of project.
 5-Customers are users that they wants to buying our website products, customers search for thier favourite car in our database.
+testing sense233
