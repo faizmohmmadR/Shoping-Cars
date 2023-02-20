@@ -7,7 +7,7 @@ Shoping Cars Project Requirement...
 5- State
 6- Company
 7- add
-
+ we should change our project roles 
 
 1- State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
 2- We use address in this project to show the address of that company whic sell the cars.
