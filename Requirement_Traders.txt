@@ -1,3 +1,0 @@
-Traders
-Trader is used in this project 
-beacuse it shows information about who persons that sell thier cars.
