@@ -1,16 +1,45 @@
 Shoping Cars Project Requirement...
 
-1- Cars
-2- Customers
-3- Traders
-4- Address
-5- State
-6- Company
-7- add
- we should change our project roles 
+1- Car
+2- Image
+3- Message
+4- User
+5- User-type (as a customer, as a company)
+6- CarModel
+7- CarOwner 
+                                    
+                                    Entity Description
+            
 
-1- State is used in this porject for shows a how is the state of a car, does this cars sold before or in the selling state.
-2- We use address in this project to show the address of that company whic sell the cars.
-3-Company is the main location where traders buy and sell their cars and also give some information to their customers from here.
-4-Cars are our project products which all buying and selling operation doing on the cars products, and it is main part of project.
-5-Customers are users that they wants to buying our website products, customers search for thier favourite car in our database.
+
+Attribute of Car: 
+
+CarID, CarName ,CarColor  , CarEnginType , Number Pallet,CarPrice,CarState,SellingState.
+
+Attribute of Image: 
+ImageID.
+
+Attribute of Message: 
+MessageID,Content.
+
+Attribute of User: 
+UserID,UserSSN,UserFirstName,UserLastName,UserPhone,UserEmail,UserAddress.
+
+Attribute of UserType: 
+AsCustomer,AsCompany.
+
+Attribute of CarModel: 
+CarModelID,CarModelName,CarModelYear,CarModelDescription.
+
+Attirbute of CarOwner:
+CarOwnerID,CarOwnerName.
+
+                           CAR Entity explaination:
+        car is our main products in our project, we set car entity for that reason which our selling and buying doing on cars
+        customers want to buying cars and checking their favourite cars in our website, also traders wants to selling their cars on customers
+        we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
+
+                            IMAGE Entity:
+        IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
+        make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
+        
