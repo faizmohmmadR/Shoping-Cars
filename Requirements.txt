@@ -31,3 +31,12 @@ CarModelID,CarModelName,CarModelYear,CarModelDescription.
 Attirbute of CarOwner:
 CarOwnerID,CarOwnerName.
 
+                            CAR Entity explaination:
+        car is our main products in our project, we set car entity for that reason which our selling and buying doing on cars
+        customers want to buying cars and checking their favourite cars in our website, also traders wants to selling their cars on customers
+        we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
+
+                            IMAGE Entity:
+        IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
+        make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
+        
