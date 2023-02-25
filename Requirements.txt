@@ -9,12 +9,27 @@ Shoping Cars Project Requirement...
 7- CarOwner 
 
 
-Attribute of Car: 
+1-CAR:     car is our main products in our project, we set car entity for that reason which our selling and buying doing on cars
+           customers want to buying cars and checking their favourite cars in our website, also traders wants to selling their cars on customers
+            we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
+        Attirbute of Car:
+            CarID, CarName ,CarColor  , CarEnginType , NumberPallet,CarPrice,CarState,SellingState.
+                1.  CarID:
+                2.  CarName:
+                3.  CarColor:
+                4.  CarEnginType:
+                5.  NumberPallet:
+                6.  CarPrice:
+                7.  CarState:
+                8.  SellingState:
 
-CarID, CarName ,CarColor  , CarEnginType , Number Pallet,CarPrice,CarState,SellingState.
-
-Attribute of Image: 
-ImageID.
+2-IMAGE:    IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
+            make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
+        Attribute of Image:
+            ImageID,
+                1.
+                2.
+                3.
 
 3-Message :   Message is a communication or statement   conveyed from one person or group to other . We use this communication  between users for giving  more information about cars.
         Attribute of Message:
@@ -22,6 +37,7 @@ ImageID.
                 1.	MessageID : We may use this MessageID as foreign key. 
                 2.	Content : All information which conveyed among users.
                 3.  MessageDate : When Message created.
+
 4-User : A person who uses or visits this web site  for buying or selling cars even if they did not buy or sell it.
         Attribute of User:
             UserID,UserSSN,UserFirstName,UserLastName,UserPhone,UserEmail,UserAddress.
@@ -32,6 +48,7 @@ ImageID.
                 5.	UserPhone: As any users have UserPhon.
                 6.	UserEmail: As any users have UserEmail.
                 7.	UserAddress: We use UserAddress for location.
+
 5-UserType: We have two type of users is this project one is a customer and anther is a company owner.
         Attribute of UserType:
             AsCustomer, AsCompany.
@@ -44,12 +61,4 @@ CarModelID,CarModelName,CarModelYear,CarModelDescription.
 Attirbute of CarOwner:
 CarOwnerID,CarOwnerName.
 
-                            CAR Entity explaination:
-        car is our main products in our project, we set car entity for that reason which our selling and buying doing on cars
-        customers want to buying cars and checking their favourite cars in our website, also traders wants to selling their cars on customers
-        we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
-
-                            IMAGE Entity:
-        IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
-        make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
         
