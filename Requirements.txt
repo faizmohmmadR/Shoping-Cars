@@ -68,7 +68,7 @@ Shoping Cars Project Requirement...
 
         Attirbute of CarManufacturer:
             CarManID,CarManName.
-                1.  CarOwnerID: Unique identify number and use as primary kay.
-                2.  CarOwnerName: Name of Company that manufactured car.
+                1.  CarManID: Unique identify number and use as primary kay.
+                2.  CarManName: Name of Company that manufactured car.
 
         
