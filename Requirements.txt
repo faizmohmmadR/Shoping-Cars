@@ -1,4 +1,11 @@
-Shoping Cars Project Requirement...
+                                                SHOPING_CARS ONLINE MARKET PROJECT
+
+        we work to make an database system and website for Cars markets in our country afghanistan, by using this website peoples who wants to buy thier favourite car they search for his favourite car in all shoping cars markets
+        in whole country and buy it in online form, we serve that services for our peoples, our team work on that project and insha allah in little time we present our complete project to market,
+        the another countries attempt to make its bussineses to online form and now most of countries work with online form, our goal is that to digitalize the Cars markets in afghanistan,so we trust to our team and we will do it. 
+
+
+            Shoping Cars Project Requirement...
 
 1- Car
 2- Image
@@ -14,22 +21,21 @@ Shoping Cars Project Requirement...
             we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
         Attirbute of Car:
             CarID, CarName ,CarColor  , CarEnginType , NumberPallet,CarPrice,CarState,SellingState.
-                1.  CarID:
-                2.  CarName:
-                3.  CarColor:
-                4.  CarEnginType:
-                5.  NumberPallet:
-                6.  CarPrice:
-                7.  CarState:
-                8.  SellingState:
+                1.  CarID:  it use for numbering avaliable cars in our project and identify number of cars in table of website.
+                2.  CarName:    every car has name in our project cars have names which identifed for customers who want to buy car.
+                3.  CarColor:   we use this Attirbute for that reason which every car has particular color it is important Attirbute.
+                4.  CarEnginType:   for specify type of car engine, we have some types of engines in same cars models.
+                5.  NumberPallet:   every car has unique number pallet in country, number pallet contian numbers.
+                6.  CarPrice:   use for denote value of cars and it is important attirbute, cars have different values in bazar.
+                7.  CarState:   use for specify that car is new or second hand car, after seeing that section the customer make decision.
+                8.  SellingState:   use for denote that car is solded or in selling state, every car should state section.   
 
 2-IMAGE:    IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
             make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
         Attribute of Image:
-            ImageID,
-                1.
-                2.
-                3.
+            
+                1.  ImageID:    use for setting image in car table in our project.
+                2.  ImageSize:  use for identify the size of picture added to cars tables.
 
 3-Message :   Message is a communication or statement   conveyed from one person or group to other . We use this communication  between users for giving  more information about cars.
         Attribute of Message:
