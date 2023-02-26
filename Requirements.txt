@@ -64,10 +64,10 @@ Shoping Cars Project Requirement...
                 3.  CarModelYear: Year of manufactured .
                 4.  CarModelDescription: More information about models.
 
-7-CarOwner:  The original company that producted cars like TOYOTA , TASLA and so on.
+7-CarManufacturer:  The original company that producted cars like TOYOTA , TASLA and so on.
 
-        Attirbute of CarOwner:
-            CarOwnerID,CarOwnerName.
+        Attirbute of CarManufacturer:
+            CarManID,CarManName.
                 1.  CarOwnerID: Unique identify number and use as primary kay.
                 2.  CarOwnerName: Name of Company that manufactured car.
 
