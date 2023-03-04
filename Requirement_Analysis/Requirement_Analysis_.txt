@@ -1,0 +1,73 @@
+Reuirement Analysis
+
+1- Car
+2- Image
+3- Message
+4- User
+5- User-type (as a customer, as a company)
+6- CarModel
+7- CarManufacturer 
+
+
+1-CAR:     car is our main products in our project, we set car entity for that reason which our selling and buying doing on cars
+           customers want to buying cars and checking their favourite cars in our website, also traders wants to selling their cars on customers
+            we make an entity for car for above reasons and we need to store cars data in our database and show the data to customers in website.
+        Attirbute of Car:
+            CarID, CarName ,CarColor  , CarEnginType , NumberPallet,CarPrice,CarState,SellingState.
+                1.  CarID:  it use for numbering avaliable cars in our project and identify number of cars in table of website.
+                2.  CarName:    every car has name in our project cars have names which identifed for customers who want to buy car.
+                3.  CarColor:   we use this Attirbute for that reason which every car has particular color it is important Attirbute.
+                4.  CarEnginType:   for specify type of car engine, we have some types of engines in same cars models.
+                5.  NumberPallet:   every car has unique number pallet in country, number pallet contian numbers.
+                6.  CarPrice:   use for denote value of cars and it is important attirbute, cars have different values in bazar.
+                7.  CarState:   use for specify that car is new or second hand car, after seeing that section the customer make decision.
+                8.  SellingState:   use for denote that car is solded or in selling state, every car should state section.   
+
+2-IMAGE:    IMAGE is an Entity in our project and explian car picture to customers, every car has some Images and customers after seeing images of car 
+            make decision for buying cars, so it is very important entity in our project, images wants to table for store images data and show data to customers.
+        Attribute of Image:
+            
+                1.  ImageID:    use for setting image in car table in our project.
+                2.  ImageSize:  use for identify the size of picture added to cars tables.
+
+3-Message :   Message is a communication or statement   conveyed from one person or group to other . We use this communication  between users for giving  more information about cars.
+        Attribute of Message:
+            MessageID, Content,MessageDate.
+                1.	MessageID : We may use this MessageID as foreign key. 
+                2.	Content : All information which conveyed among users.
+                3.  MessageDate : When Message created.
+
+4-User : A person who uses or visits this web site  for buying or selling cars even if they did not buy or sell it.
+        Attribute of User:
+            UserID,UserSSN,UserFirstName,UserLastName,UserPhone,UserEmail,UserAddress.
+                1.	UserID: As may use for primary kay.
+                2.	UserSSN: As any users have UserSSN. 
+                3.	UserFirstName: As any users have UserFirstName.
+                4.	UserLastName: As any users have UserLastName.
+                5.	UserPhone: As any users have UserPhon.
+                6.	UserEmail: As any users have UserEmail.
+                7.	UserAddress: We use UserAddress for location.
+
+5-UserType: We have two type of users is this project one is a customer and anther is a company owner.
+        Attribute of UserType:
+            AsCustomer, AsCompany.
+                1.	AsCustomer: Is a buyer.
+                2.	AsCompany: Is a seller.
+
+6-CarModel: There are many cars in diffrent models. Each model has specific properties .
+
+        Attribute of CarModel: 
+            CarModelID,CarModelName,CarModelYear,CarModelDescription.
+                1.  CarModelID:  Unique identify number and use as primary kay.
+                2.  CarModelName: Name of car model .
+                3.  CarModelYear: Year of manufactured .
+                4.  CarModelDescription: More information about models.
+
+7-CarManufacturer:  The original company that producted cars like TOYOTA , TASLA and so on.
+
+        Attirbute of CarManufacturer:
+            CarManID,CarManName.
+                1.  CarManID: Unique identify number and use as primary kay.
+                2.  CarManName: Name of Company that manufactured car.
+
+        
